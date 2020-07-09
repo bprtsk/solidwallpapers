@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Solid Wallpaper</string>
+    <string name="colors">Colors</string>
+    <string name="remove">Remove</string>
+    <string name="select">Select</string>
+    <string name="choose_color">Choose color</string>
+    <string name="confirm">Confirm</string>
+    <string name="choose_gradient_angle">Choose gradient angle</string>
+    <string name="angle">%1d°</string>
+    <string name="gradient_angle">Gradient andle (%1d°)</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="set_as_a_wallpaper">Set color(s) as a wallpaper?</string>
+</resources>
